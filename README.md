@@ -129,16 +129,21 @@ cap.release()
 
 ### i) Write the Frame as a JPG Image
 
+<img width="625" height="490" alt="image" src="https://github.com/user-attachments/assets/65b1cb36-4b54-45a0-9e78-a6cd674eaa98" />
 
 ### ii) Display the Video
+
+<img width="615" height="462" alt="image" src="https://github.com/user-attachments/assets/bd29a0c8-9fa5-4453-9766-b9983193187e" />
 
 
 
 ### iii) Display the Video by Resizing the Frame
 
+<img width="326" height="467" alt="image" src="https://github.com/user-attachments/assets/72789b02-2898-4705-9795-39c09c887cca" />
 
 
 ### iv) Rotate and Display the Video
+<img width="337" height="461" alt="image" src="https://github.com/user-attachments/assets/c76e3a5b-32d3-400d-8b45-69690a1af5b7" />
 
 
 ## Result
